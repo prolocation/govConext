@@ -1,0 +1,14 @@
+Magische link
+
+Volg de onderstaande link om in te loggen en door te gaan naar uw bestemming:
+
+{{magicLinkUrl}}?h={{hash}}
+
+Meld u aan bij {{destination}}. Deze link verloopt na 10 minuten en kan slechts eenmaal worden gebruikt.
+
+Hallo {{name}},
+
+Iemand heeft zojuist om een magische link aangevraagd op govID voor dit e-mailadres. Als u dit was, kunt u inloggen door de bovenstaande link te volgen.
+Als u deze magische link niet hebt aangevraagd, kunt u dit bericht negeren of verwijderen.
+
+{{> footer_nl.txt}}

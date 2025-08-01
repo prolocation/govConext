@@ -1,0 +1,22 @@
+{
+  "account_confirmation": {
+    "en": "Your govID has been created",
+    "nl": "Je govID is aangemaakt"
+  },
+  "account_migration": {
+    "en": "Your Onegini guest account has been migrated to govID",
+    "nl": "Uw Onegini gastaccount is gemigreerd naar govID"
+  },
+  "account_verification": {
+    "en": "Please verify your e-mail address for your govID",
+    "nl": "Verifieer uw e-mailadres voor uw govID"
+  },
+  "magic_link": {
+    "en": "Magic Link to login",
+    "nl": "Magische link om in te loggen"
+  },
+  "forgot_password": {
+    "en": "Reset your govID password",
+    "nl": "Reset uw govID wachtwoord"
+  }
+}

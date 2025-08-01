@@ -1,0 +1,22 @@
+[
+  {
+    "emailDomain": "prolo.nl",
+    "schacHomeOrganization": "prolocation.net"
+  },
+  {
+    "emailDomain": "prolocation.net",
+    "schacHomeOrganization": "prolocation.net"
+  },
+  {
+    "emailDomain": "govroam.nl",
+    "schacHomeOrganization": "govroam.nl"
+  },
+  {
+    "emailDomain": "surfnet.nl",
+    "schacHomeOrganization": "surf.nl"
+  },
+  {
+    "emailDomain": "surf.nl",
+    "schacHomeOrganization": "surf.nl"
+  }
+]

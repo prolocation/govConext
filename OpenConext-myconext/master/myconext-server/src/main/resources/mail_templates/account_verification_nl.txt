@@ -1,0 +1,14 @@
+U heeft een govID aangevraagd. Klik op de onderstaande link om te bevestigen
+dat dit e-mailadres van u is:
+
+{{magicLinkUrl}}?h={{hash}}
+
+Beste {{name}},
+
+Iemand heeft zojuist een govID aangevraagd met dit e-mailadres. Als u dit was, moet u
+uw e-mailadres bevestigen door op de knop hierboven te klikken.
+
+Als u geen govID wilt of er niet om hebt gevraagd, kunt u dit bericht gewoon negeren
+of verwijderen.
+
+{{> footer_nl.txt}}

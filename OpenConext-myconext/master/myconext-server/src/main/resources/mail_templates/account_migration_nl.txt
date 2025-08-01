@@ -1,0 +1,6 @@
+
+Beste {{name}},
+
+Uw Onegini-account is succesvol gemigreerd naar een nieuw govID.
+
+{{> footer_nl.txt}}

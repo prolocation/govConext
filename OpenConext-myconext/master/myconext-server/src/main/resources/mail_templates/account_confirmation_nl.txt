@@ -1,0 +1,5 @@
+Beste {{name}},
+
+Uw govID is nu geactiveerd.
+
+{{> footer_nl.txt}}
