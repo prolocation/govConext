@@ -49,6 +49,8 @@ find . -name \*.rej
 
 Als alles gepatched is, vergeet niet de `.rej` en `.orig` bestanden op te ruimen.
 
+Nu kun je de software bouwen en testen op de build machine.
+
 ## Opleveren
 
 ```sh
